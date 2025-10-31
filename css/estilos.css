@@ -73,7 +73,8 @@ nav ul li.subscribe a {
     margin-left: 22px;
     padding-left: 33px;
     text-align: left;
-    background: url("img/rss.png") left center no-repeat;
+    background: url("../img/rss.png") left center no-repeat;
+    
 }
 #intro {
     position: relative;
